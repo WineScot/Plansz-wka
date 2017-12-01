@@ -123,4 +123,5 @@ void Plansza::action(Player* player)
     Sleep(2000);
     player->battle(pola[playerPos]->getM());
     pola[playerPos]->wyswietl_bonusy();
+
 }
