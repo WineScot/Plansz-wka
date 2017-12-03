@@ -3,98 +3,102 @@
 15
 10
 Iacobo Koguta
-5
-5
-5
+1
+1
+1
 Słanisław Słoń
-15
-10
-20
+2
+2
+2
 431-letnia tradycja
-20
-5
-10
+3
+3
+3
 Profesor Bolitył
-20
-5
-25
+4
+4
+4
 Pascal prawiana
-10
-20
-30
-Rafał Schultz
-25
-10
-10
-Lęczyna Bęcka
-10
-10
-10
-Stagnacy Zrzecki
-15
-10
-10
-Bajtek
-25
-15
-20
-Flaudia Lis
-25
-10
-15
-Jakub Królewicz
-30
-25
-20
-Chmura(środek transportu)
-15
-17
-13
-4 moduły z x
-20
-25
-30
-Nieskończoność+1
-30
-35
-40
-Funkcja Mobiusa
-20
-25
-30
-Ptak turysta sabotażysta
-35
-20
-15
-Puchuś Kubatek
-40
 5
-15
-Dziewczyna z Diversity
-40
-25
-30
-Klasa abstrakcyjna
-25
+5
+5
+Rafał Schultz
+6
+6
+6
+Lęczyna Bęcka
+7
+7
+7
+Stagnacy Zrzecki
+8
+8
+8
+Bajtek
+9
+9
+9
+Flaudia Lis
 10
+10
+10
+Jakub Królewicz
+11
+11
+11
+Chmura(środek transportu)
+12
+12
+12
+4 moduły z x
+13
+13
+13
+Nieskończoność+1
+14
+14
+14
+Funkcja Mobiusa
 15
+15
+15
+Ptak turysta sabotażysta
+16
+16
+16
+Puchuś Kubatek
+17
+17
+17
+Dziewczyna z Diversity
+18
+18
+18
+Klasa abstrakcyjna
+19
+19
+19
 Kanapka z masłem
-35
-15
+20
+20
 20
 Ładna, zielona trawa
-25
-10
-20
+21
+21
+21
+Czasownik bez zu
+22
+22
+22
 Ogólnowszechświatowy konkurs logiczny KUL
-35
-20
-25
+23
+23
+23
 Próg z OIa
-20
-20
-20
+24
+24
+24
 OIOM
-35
 25
-30
+25
+25
