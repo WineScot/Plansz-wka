@@ -8,6 +8,6 @@ Thief::Thief(Plansza* p)
     koniec=false;
     critical=0;
     hp=15;
-    attack=5;
+    attack=10;
     defence=15;
 }
